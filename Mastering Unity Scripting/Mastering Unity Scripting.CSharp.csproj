@@ -69,10 +69,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Part 1.C# Game scripting refesher\1.about polymorphism\Scripts\MyCharacter.cs" />
-    <Compile Include="Assets\Part 1.C# Game scripting refesher\1.about polymorphism\Scripts\Tavern.cs" />
-    <Compile Include="Assets\Part 1.C# Game scripting refesher\2.about properties\Scripts\Database.cs" />
-    <Compile Include="Assets\Part 2.playWithGameObject\1.UseDeltaTime\Scripts\UseDeltaTime.cs" />
+    <Compile Include="Assets\Part 1.C# Game scripting refesher\1.About polymorphism\Scripts\MyCharacter.cs" />
+    <Compile Include="Assets\Part 1.C# Game scripting refesher\1.About polymorphism\Scripts\Tavern.cs" />
+    <Compile Include="Assets\Part 1.C# Game scripting refesher\2.About properties\Scripts\Database.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\1.Use DeltaTime\Scripts\UseDeltaTime.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.CSharp.targets" />
 </Project>
