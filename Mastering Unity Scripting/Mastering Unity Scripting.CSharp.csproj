@@ -76,7 +76,14 @@
     <Compile Include="Assets\Part 2.Play With GameObject\2.2 Getting Multiple Components\GettingMultipleComponents.cs" />
     <Compile Include="Assets\Part 2.Play With GameObject\2.3 Use Invoke\UseInvoke.cs" />
     <Compile Include="Assets\Part 2.Play With GameObject\2.4 Finding GameObjects\FindingGameObjects.cs" />
-    <Compile Include="Assets\Part 2.Play With GameObject\x.Use DeltaTime\UseDeltaTime.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.5 Play with Linecast\PlayWithLinecast.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.6 Accessing Object Hierarchies\AccessingObjectHierarchies.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.7 Use DeltaTime\UseDeltaTime.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.8 Use DontDestroyOnLoad\PersistentObj.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.8 Use DontDestroyOnLoad\SceneChanger.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.9 GameManagerUseSinglton\GameManager.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.9 GameManagerUseSinglton\SceneChangerV2.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.9 GameManagerUseSinglton\ScoreSetter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.CSharp.targets" />
 </Project>
