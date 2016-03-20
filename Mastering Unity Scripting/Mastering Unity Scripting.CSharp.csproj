@@ -69,10 +69,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Part 1.C# Game scripting refesher\1.About polymorphism\Scripts\MyCharacter.cs" />
-    <Compile Include="Assets\Part 1.C# Game scripting refesher\1.About polymorphism\Scripts\Tavern.cs" />
-    <Compile Include="Assets\Part 1.C# Game scripting refesher\2.About properties\Scripts\Database.cs" />
-    <Compile Include="Assets\Part 2.Play With GameObject\1.Use DeltaTime\Scripts\UseDeltaTime.cs" />
+    <Compile Include="Assets\Part 1.C# Game scripting refesher\1.1 About polymorphism\Scripts\MyCharacter.cs" />
+    <Compile Include="Assets\Part 1.C# Game scripting refesher\1.1 About polymorphism\Scripts\Tavern.cs" />
+    <Compile Include="Assets\Part 1.C# Game scripting refesher\1.2 About properties\Scripts\Database.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.1 About GetComponent\AboutGetComponent.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.2 Getting Multiple Components\GettingMultipleComponents.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.3 Use Invoke\UseInvoke.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\2.4 Finding GameObjects\FindingGameObjects.cs" />
+    <Compile Include="Assets\Part 2.Play With GameObject\x.Use DeltaTime\UseDeltaTime.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.CSharp.targets" />
 </Project>
